@@ -2,7 +2,7 @@
 
 
 
-<img src="D:\schoolwork\Glossary for commands\imgs\2048px-Angular_full_color_logo.svg.png" alt="2048px-Angular_full_color_logo.svg" style="zoom:20%;" />
+<img src="imgs\2048px-Angular_full_color_logo.svg.png" alt="2048px-Angular_full_color_logo.svg" style="zoom:20%;" />
 
 # Angular CLI Commands
 
@@ -29,7 +29,7 @@
 
 
 
-<img src="D:\schoolwork\Glossary for commands\imgs\2048px-Angular_full_color_logo.svg.png" alt="2048px-Angular_full_color_logo.svg" style="zoom:20%;" />
+<img src="imgs\2048px-Angular_full_color_logo.svg.png" alt="2048px-Angular_full_color_logo.svg" style="zoom:20%;" />
 
 # Angular Modules
 
@@ -52,7 +52,7 @@
 
 
 
-<img src="D:\schoolwork\Glossary for commands\imgs\985px-Laravel.svg.png" alt="985px-Laravel.svg" style="zoom:20%;" />
+<img src="imgs\985px-Laravel.svg.png" alt="985px-Laravel.svg" style="zoom:20%;" />
 
 # Laravel Artisan Commands
 
@@ -79,8 +79,7 @@
 ---
 
 
-
-![Logo-composer-transparent](D:\schoolwork\Glossary for commands\imgs\Logo-composer-transparent.png)
+<img src=".\imgs\Logo-composer-transparent.png" alt="2560px-Npm-logo.svg" style="zoom:20%;" />
 
 # Composer Commands
 
@@ -101,7 +100,7 @@
 
 ---
 
-<img src="D:\schoolwork\Glossary for commands\imgs\React-icon.svg.png" alt="React-icon.svg" style="zoom:20%;" />
+<img src="imgs\React-icon.svg.png" alt="React-icon.svg" style="zoom:20%;" />
 
 # React Commands
 
@@ -125,7 +124,7 @@
 
 ---
 
-<img src="D:\schoolwork\Glossary for commands\imgs\React-icon.svg.png" alt="React-icon.svg" style="zoom:20%;" />
+<img src="imgs\React-icon.svg.png" alt="React-icon.svg" style="zoom:20%;" />
 
 # React modules
 
@@ -149,8 +148,7 @@
 
 
 ---
-
-![Git-Icon-1788C](D:\schoolwork\Glossary for commands\imgs\Git-Icon-1788C.png)
+<img src=".\imgs\Git-Icon-1788C.png" alt="2560px-Npm-logo.svg" style="zoom:20%;" />
 
 # Git Commands
 
@@ -177,7 +175,7 @@
 
 
 
-<img src="D:\schoolwork\Glossary for commands\imgs\2560px-Npm-logo.svg.png" alt="2560px-Npm-logo.svg" style="zoom:20%;" />
+<img src="imgs\2560px-Npm-logo.svg.png" alt="2560px-Npm-logo.svg" style="zoom:20%;" />
 
 # NPM Commands
 
@@ -203,8 +201,7 @@
 ---
 
 
-
-![logo-with-shadow](D:\schoolwork\Glossary for commands\imgs\logo-with-shadow.png)
+<img src=".\imgs\logo-with-shadow.png" alt="2560px-Npm-logo.svg" style="zoom:20%;" />
 
 # Vite Commands
 
@@ -231,7 +228,7 @@
 
 
 
-<img src="D:\schoolwork\Glossary for commands\imgs\2560px-Node.js_logo.svg.png" alt="2560px-Node.js_logo.svg" style="zoom:20%;" />
+<img src="imgs\2560px-Node.js_logo.svg.png" alt="2560px-Node.js_logo.svg" style="zoom:20%;" />
 
 # NodeJS Commands
 
@@ -256,7 +253,7 @@
 
 ---
 
-<img src="D:\schoolwork\Glossary for commands\imgs\JQuery-Logo.svg.png" alt="JQuery-Logo.svg" style="zoom:20%;" />
+<img src="imgs\JQuery-Logo.svg.png" alt="JQuery-Logo.svg" style="zoom:20%;" />
 
 # JQuery Commands
 
