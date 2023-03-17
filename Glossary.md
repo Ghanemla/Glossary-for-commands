@@ -256,6 +256,10 @@
 
 ---
 
+
+
+
+
 <img src="D:\schoolwork\Glossary for commands\imgs\JQuery-Logo.svg.png" alt="JQuery-Logo.svg" style="zoom:20%;" />
 
 # JQuery Commands
