@@ -1,10 +1,14 @@
-[TOC]
+# Table of contents
+1. [Introduction](#introduction)
+2. [Some paragraph](#paragraph1)
+    1. [Sub paragraph](#subparagraph1)
+3. [Another paragraph](#paragraph2)
 
 
 
 <img src="imgs\2048px-Angular_full_color_logo.svg.png" alt="2048px-Angular_full_color_logo.svg" style="zoom:20%;" />
 
-# Angular CLI Commands
+# Angular CLI Commands 
 
 #### [Angular CLI Docs](https://angular.io/cli)
 
